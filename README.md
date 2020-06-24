@@ -35,6 +35,12 @@
 3. I/O Latency + SMART
 
 
+## 链接
+
+[SMART 监控项研究以及存储健康分级机制](https://segmentfault.com/a/1190000002680853)
+[服务器硬盘故障预测实践](https://cloud.tencent.com/developer/article/1037692)
+
+
 ## papers
 
 [1] [AIOps_Real-World_Challenges_and_Research_Innovations.pdf](./pdf/AIOps_Real-World_Challenges_and_Research_Innovations.pdf)
