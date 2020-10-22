@@ -25,7 +25,7 @@
 1. 无标注（unsupervised anomaly detection）
 2. 二分类（健康、故障）
 3. 多分类（健康等级）
-4. 序列标注（per time step per state）
+4. 序列标注（per time step per state，考虑到故障等级之间状态转移的约束条件，如故障的磁盘不能转化为健康状态）
 5. 回归（剩余寿命）
 
 从数据使用角度：
