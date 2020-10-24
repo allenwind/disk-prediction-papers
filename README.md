@@ -41,6 +41,8 @@
 
 [服务器硬盘故障预测实践](https://cloud.tencent.com/developer/article/1037692)
 
+[What SMART Stats Tell Us About Hard Drives](https://www.backblaze.com/blog/what-smart-stats-indicate-hard-drive-failures/)
+
 
 ## papers
 
